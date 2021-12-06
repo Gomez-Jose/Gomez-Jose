@@ -1,4 +1,4 @@
-- 👨‍💻 All of my projects are available at: 
+- 👨‍💻 All of my projects are available at: https://github.com/Gomez-Jose?tab=repositories
 
 - 📫 How to reach me: josgomez@pm.me
 
