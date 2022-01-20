@@ -1,6 +1,6 @@
 - 👨‍💻 All of my projects are available at: https://github.com/Gomez-Jose?tab=repositories
 
-- 📫 How to reach me: josgomez@pm.me
+- 📫 How to reach me: josgomez@protonmail.com
 
 - 📄 LinkedIn profile: https://www.linkedin.com/in/jose-maximiliano-gomez/
 
